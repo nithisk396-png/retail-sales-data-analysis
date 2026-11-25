@@ -1,0 +1,61 @@
+order_id,order_date,product,category,region,quantity,unit_price,discount_rate
+ORD001,2025-01-21,Mechanical Keyboard,Electronics,Bengaluru,1,2499,0.05
+ORD002,2025-02-08,USB-C Hub,Electronics,Coimbatore,1,1599,0
+ORD003,2025-03-02,Wireless Mouse,Electronics,Bengaluru,1,799,0
+ORD004,2025-04-17,Wireless Mouse,Electronics,Coimbatore,5,799,0
+ORD005,2025-05-08,Backpack,Lifestyle,Chennai,5,1299,0.05
+ORD006,2025-06-25,USB-C Hub,Electronics,Hyderabad,4,1599,0.05
+ORD007,2025-07-05,Notebook Set,Stationery,Chennai,3,249,0
+ORD008,2025-08-13,Mechanical Keyboard,Electronics,Hyderabad,3,2499,0.05
+ORD009,2025-09-26,Wireless Mouse,Electronics,Coimbatore,4,799,0
+ORD010,2025-10-03,Gel Pen Pack,Stationery,Bengaluru,5,129,0.05
+ORD011,2025-11-23,Mechanical Keyboard,Electronics,Hyderabad,1,2499,0
+ORD012,2025-12-03,Notebook Set,Stationery,Hyderabad,1,249,0.1
+ORD013,2025-01-15,Desk Organizer,Stationery,Hyderabad,2,499,0.05
+ORD014,2025-02-07,Gel Pen Pack,Stationery,Bengaluru,1,129,0
+ORD015,2025-03-06,Backpack,Lifestyle,Bengaluru,4,1299,0.05
+ORD016,2025-04-22,Desk Organizer,Stationery,Chennai,1,499,0
+ORD017,2025-05-26,Desk Organizer,Stationery,Chennai,4,499,0.05
+ORD018,2025-06-07,Desk Organizer,Stationery,Coimbatore,2,499,0.1
+ORD019,2025-07-21,Backpack,Lifestyle,Bengaluru,2,1299,0.05
+ORD020,2025-08-08,Gel Pen Pack,Stationery,Coimbatore,5,129,0.1
+ORD021,2025-09-12,Notebook Set,Stationery,Chennai,2,249,0.1
+ORD022,2025-10-25,Wireless Mouse,Electronics,Bengaluru,1,799,0
+ORD023,2025-11-26,Water Bottle,Lifestyle,Coimbatore,5,399,0
+ORD024,2025-12-13,Backpack,Lifestyle,Chennai,5,1299,0.05
+ORD025,2025-01-22,Mechanical Keyboard,Electronics,Hyderabad,5,2499,0.05
+ORD026,2025-02-04,Gel Pen Pack,Stationery,Coimbatore,4,129,0
+ORD027,2025-03-01,Gel Pen Pack,Stationery,Chennai,5,129,0
+ORD028,2025-04-21,Gel Pen Pack,Stationery,Bengaluru,5,129,0
+ORD029,2025-05-12,USB-C Hub,Electronics,Hyderabad,5,1599,0
+ORD030,2025-06-16,Wireless Mouse,Electronics,Hyderabad,1,799,0.05
+ORD031,2025-07-08,Wireless Mouse,Electronics,Chennai,2,799,0
+ORD032,2025-08-24,Backpack,Lifestyle,Bengaluru,1,1299,0
+ORD033,2025-09-22,Backpack,Lifestyle,Hyderabad,5,1299,0
+ORD034,2025-10-17,Water Bottle,Lifestyle,Hyderabad,2,399,0
+ORD035,2025-11-13,Desk Organizer,Stationery,Chennai,4,499,0.1
+ORD036,2025-12-08,Notebook Set,Stationery,Chennai,1,249,0.05
+ORD037,2025-01-19,Notebook Set,Stationery,Chennai,5,249,0
+ORD038,2025-02-03,Wireless Mouse,Electronics,Chennai,2,799,0
+ORD039,2025-03-11,Mechanical Keyboard,Electronics,Hyderabad,5,2499,0
+ORD040,2025-04-22,Backpack,Lifestyle,Coimbatore,2,1299,0
+ORD041,2025-05-08,Backpack,Lifestyle,Chennai,4,1299,0
+ORD042,2025-06-04,Water Bottle,Lifestyle,Coimbatore,3,399,0.1
+ORD043,2025-07-15,Wireless Mouse,Electronics,Coimbatore,1,799,0
+ORD044,2025-08-24,Desk Organizer,Stationery,Bengaluru,1,499,0
+ORD045,2025-09-07,Backpack,Lifestyle,Bengaluru,2,1299,0.1
+ORD046,2025-10-09,Backpack,Lifestyle,Coimbatore,2,1299,0
+ORD047,2025-11-26,Mechanical Keyboard,Electronics,Chennai,1,2499,0
+ORD048,2025-12-25,Notebook Set,Stationery,Coimbatore,2,249,0.1
+ORD049,2025-01-16,Notebook Set,Stationery,Bengaluru,4,249,0
+ORD050,2025-02-13,Wireless Mouse,Electronics,Coimbatore,4,799,0.05
+ORD051,2025-03-10,Water Bottle,Lifestyle,Bengaluru,5,399,0.1
+ORD052,2025-04-07,Gel Pen Pack,Stationery,Chennai,2,129,0
+ORD053,2025-05-24,Desk Organizer,Stationery,Coimbatore,1,499,0
+ORD054,2025-06-17,USB-C Hub,Electronics,Bengaluru,1,1599,0
+ORD055,2025-07-03,Mechanical Keyboard,Electronics,Chennai,2,2499,0.1
+ORD056,2025-08-19,Notebook Set,Stationery,Chennai,5,249,0
+ORD057,2025-09-14,Desk Organizer,Stationery,Hyderabad,3,499,0
+ORD058,2025-10-08,Gel Pen Pack,Stationery,Hyderabad,4,129,0
+ORD059,2025-11-15,Desk Organizer,Stationery,Coimbatore,1,499,0
+ORD060,2025-12-20,Mechanical Keyboard,Electronics,Hyderabad,1,2499,0
